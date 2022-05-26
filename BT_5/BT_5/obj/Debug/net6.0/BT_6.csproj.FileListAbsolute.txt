@@ -1,0 +1,15 @@
+D:\BT_Visual\BT_1\BT_5\BT_5\bin\Debug\net6.0\BT_6.exe
+D:\BT_Visual\BT_1\BT_5\BT_5\bin\Debug\net6.0\BT_6.deps.json
+D:\BT_Visual\BT_1\BT_5\BT_5\bin\Debug\net6.0\BT_6.runtimeconfig.json
+D:\BT_Visual\BT_1\BT_5\BT_5\bin\Debug\net6.0\BT_6.dll
+D:\BT_Visual\BT_1\BT_5\BT_5\bin\Debug\net6.0\BT_6.pdb
+D:\BT_Visual\BT_1\BT_5\BT_5\obj\Debug\net6.0\BT_6.csproj.AssemblyReference.cache
+D:\BT_Visual\BT_1\BT_5\BT_5\obj\Debug\net6.0\BT_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\BT_Visual\BT_1\BT_5\BT_5\obj\Debug\net6.0\BT_6.AssemblyInfoInputs.cache
+D:\BT_Visual\BT_1\BT_5\BT_5\obj\Debug\net6.0\BT_6.AssemblyInfo.cs
+D:\BT_Visual\BT_1\BT_5\BT_5\obj\Debug\net6.0\BT_6.csproj.CoreCompileInputs.cache
+D:\BT_Visual\BT_1\BT_5\BT_5\obj\Debug\net6.0\BT_6.dll
+D:\BT_Visual\BT_1\BT_5\BT_5\obj\Debug\net6.0\refint\BT_6.dll
+D:\BT_Visual\BT_1\BT_5\BT_5\obj\Debug\net6.0\BT_6.pdb
+D:\BT_Visual\BT_1\BT_5\BT_5\obj\Debug\net6.0\BT_6.genruntimeconfig.cache
+D:\BT_Visual\BT_1\BT_5\BT_5\obj\Debug\net6.0\ref\BT_6.dll
