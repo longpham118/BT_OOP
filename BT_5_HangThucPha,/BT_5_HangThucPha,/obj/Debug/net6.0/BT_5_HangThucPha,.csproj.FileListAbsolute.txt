@@ -1,0 +1,15 @@
+D:\BT_Visual\BT_1\BT_5_HangThucPha,\BT_5_HangThucPha,\bin\Debug\net6.0\BT_5_HangThucPha,.exe
+D:\BT_Visual\BT_1\BT_5_HangThucPha,\BT_5_HangThucPha,\bin\Debug\net6.0\BT_5_HangThucPha,.deps.json
+D:\BT_Visual\BT_1\BT_5_HangThucPha,\BT_5_HangThucPha,\bin\Debug\net6.0\BT_5_HangThucPha,.runtimeconfig.json
+D:\BT_Visual\BT_1\BT_5_HangThucPha,\BT_5_HangThucPha,\bin\Debug\net6.0\BT_5_HangThucPha,.dll
+D:\BT_Visual\BT_1\BT_5_HangThucPha,\BT_5_HangThucPha,\bin\Debug\net6.0\BT_5_HangThucPha,.pdb
+D:\BT_Visual\BT_1\BT_5_HangThucPha,\BT_5_HangThucPha,\obj\Debug\net6.0\BT_5_HangThucPha,.csproj.AssemblyReference.cache
+D:\BT_Visual\BT_1\BT_5_HangThucPha,\BT_5_HangThucPha,\obj\Debug\net6.0\BT_5_HangThucPha,.GeneratedMSBuildEditorConfig.editorconfig
+D:\BT_Visual\BT_1\BT_5_HangThucPha,\BT_5_HangThucPha,\obj\Debug\net6.0\BT_5_HangThucPha,.AssemblyInfoInputs.cache
+D:\BT_Visual\BT_1\BT_5_HangThucPha,\BT_5_HangThucPha,\obj\Debug\net6.0\BT_5_HangThucPha,.AssemblyInfo.cs
+D:\BT_Visual\BT_1\BT_5_HangThucPha,\BT_5_HangThucPha,\obj\Debug\net6.0\BT_5_HangThucPha,.csproj.CoreCompileInputs.cache
+D:\BT_Visual\BT_1\BT_5_HangThucPha,\BT_5_HangThucPha,\obj\Debug\net6.0\BT_5_HangThucPha,.dll
+D:\BT_Visual\BT_1\BT_5_HangThucPha,\BT_5_HangThucPha,\obj\Debug\net6.0\refint\BT_5_HangThucPha,.dll
+D:\BT_Visual\BT_1\BT_5_HangThucPha,\BT_5_HangThucPha,\obj\Debug\net6.0\BT_5_HangThucPha,.pdb
+D:\BT_Visual\BT_1\BT_5_HangThucPha,\BT_5_HangThucPha,\obj\Debug\net6.0\BT_5_HangThucPha,.genruntimeconfig.cache
+D:\BT_Visual\BT_1\BT_5_HangThucPha,\BT_5_HangThucPha,\obj\Debug\net6.0\ref\BT_5_HangThucPha,.dll
